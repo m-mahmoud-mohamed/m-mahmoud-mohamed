@@ -78,7 +78,7 @@
 <h3 align="center">📊 <span style="color:#00F0FF">Contribution Topography</span></h3>
 
 <div align="center">
-  <!-- 3D STATS IMAGE (This requires the workflow below to run!) -->
+  <!-- 3D STATS IMAGE (Required workflow below!) -->
   <img src="https://github.com/m-mahmoud-mohamed/m-mahmoud-mohamed/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Stats" />
 </div>
 
