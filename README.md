@@ -10,7 +10,7 @@
 <!-- ---------------------------------------------------------------------- -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <!-- FIXED: Replaced '&' with '%26' to prevent XML errors -->
+    <!-- FIXED: Replaced '&' with '%26' and commas with '%2C' to prevent XML errors -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Current+Status%3A+Werkstudent+AI+Engineer+at+GWDG;Mission%3A+Deploying+LLMs+and+Vision+Systems+to+Production;Stack%3A+PyTorch%2C+Docker%2C+RAG%2C+Kubernetes" alt="Typing SVG" />
   </a>
 </div>
@@ -65,7 +65,7 @@
 
 <div align="center">
   <!-- AI Core -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
   <br />
   <!-- Infrastructure -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,aws,gcp,postgres&theme=dark" />
