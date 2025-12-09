@@ -10,7 +10,8 @@
 <!-- ---------------------------------------------------------------------- -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Current+Status%3A+Engineering+AI+Solutions+at+GWDG;Mission%3A+Deploying+LLMs+and+Vision+Systems+to+Production;Stack%3A+PyTorch%2C+Docker%2C+RAG%2C+Kubernetes" alt="Typing SVG" />
+    <!-- FIXED: Replaced '&' with '%26' to prevent XML errors -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Current+Status%3A+Werkstudent+AI+Engineer+at+GWDG;Mission%3A+Deploying+LLMs+and+Vision+Systems+to+Production;Stack%3A+PyTorch%2C+Docker%2C+RAG%2C+Kubernetes" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +21,7 @@
 <div align="center">
   <br />
   <a href="mailto:mahmoud.abdellahi@stud.uni-goettingen.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
-  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud--mohamed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
   <a href="https://github.com/m-mahmoud-mohamed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>
 </div>
 
@@ -41,8 +42,8 @@
         <br/>
         <strong>🚀 Current Operations:</strong>
         <ul>
-          <li><strong>GWDG:</strong> Building LLM-powered Exam Grading Systems (RAG).</li>
-          <li><strong>Uni Göttingen:</strong> Fine-tuning Vision-Language Models.</li>
+          <li><strong>GWDG:</strong> Werkstudent AI Engineer (LLM & Exam Grading).</li>
+          <li><strong>Uni Göttingen:</strong> Master's Student (Applied CS).</li>
         </ul>
       </td>
       <td width="45%" valign="top">
@@ -78,7 +79,8 @@
 <h3 align="center">📊 <span style="color:#00F0FF">Contribution Topography</span></h3>
 
 <div align="center">
-  <!-- 3D STATS IMAGE (This requires the workflow to run!) -->
+  <!-- 3D STATS IMAGE -->
+  <!-- Ensure you have run the .github/workflows/3d-contrib.yml workflow! -->
   <img src="https://github.com/m-mahmoud-mohamed/m-mahmoud-mohamed/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Stats" />
 </div>
 
@@ -94,6 +96,7 @@
 <!-- ---------------------------------------------------------------------- -->
 <h3 align="center">🐍 <span style="color:#2DD4BF">Activity Stream</span></h3>
 <div align="center">
+  <!-- FIXED: Ensure the branch is 'output' and the file exists -->
   <img src="https://github.com/m-mahmoud-mohamed/m-mahmoud-mohamed/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
 
