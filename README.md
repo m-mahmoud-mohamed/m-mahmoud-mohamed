@@ -38,7 +38,7 @@
 
 ## &nbsp;🧑‍💻 &nbsp;Who Am I?
 
-&nbsp;&nbsp;&nbsp;🏢 &nbsp;**Software Engineer** @ [**GWDG**](https://www.gwdg.de/) — Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen
+&nbsp;&nbsp;&nbsp;🏢 &nbsp;**Software Engineer** @ [**GWDG**](https://www.gwdg.de/) — German National HPC Center
 
 &nbsp;&nbsp;&nbsp;🎓 &nbsp;**M.Sc. Computer Science** — University of Göttingen
 
@@ -48,12 +48,13 @@
 
 &nbsp;&nbsp;&nbsp;💡 &nbsp;I love turning complex data into real-world impact
 
-&nbsp;&nbsp;&nbsp;📍 &nbsp;Based in **Germany🇩🇪**
+&nbsp;&nbsp;&nbsp;📍 &nbsp;Based in **Göttingen, Germany** 🇩🇪
 
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Fun fact: I debug best at midnight
 
 <br/>
 
+&nbsp;&nbsp;&nbsp;📚 **Courses:** Deep Learning · NLP · Data Science · Big Data · Distributed Systems
 
 <br clear="right"/>
 
@@ -65,8 +66,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=0d1117&color=79c0ff&line=1f6feb&point=79c0ff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Mahmoud's%20Contribution%20Graph" width="98%"/>
 </div>
-
-<br/>
 
 ---
 
@@ -87,7 +86,7 @@
 **🤖 AI & Data Science**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -113,21 +112,21 @@
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats - using anuraghazra stats + demolab streak (most reliable public instances) -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=420" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="195"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="195"/>
+  <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="195"/>
 </div>
 
 ---
 
-<!-- Trophies — using lucthienphong1120 fork (actively maintained, replaces broken ryo-ma vercel) -->
+<!-- Trophies -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -141,12 +140,12 @@
 
 ```python
 mahmoud = {
-    "role"        :  "Software Engineer @ GWDG (Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen)",
+    "role"        :  "Software Engineer @ GWDG (German National HPC Center)",
     "education"   :  "M.Sc. Computer Science — University of Göttingen",
     "focus"       :  ["Data Science", "Machine Learning", "AI Engineering"],
     "building"    :  ["AI-powered applications", "Scalable ML pipelines on HPC"],
     "learning"    :  ["LLMs & Generative AI", "NLP Research", "Representation Learning"],
-    "hpc"         :  "GPU cluster computing & distributed training",
+    "hpc"         :  "GPU cluster computing & distributed training via SLURM",
     "open_to"     :  ["Collaborations", "Research", "ML Engineering Roles"],
     "ask_me_about":  ["Python", "Data Science", "Deep Learning", "Full-Stack AI Apps"],
 }
