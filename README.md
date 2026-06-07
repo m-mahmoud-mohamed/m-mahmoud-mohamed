@@ -26,7 +26,7 @@
 
 I’m a **Computer Science Master’s student** at the **University of Göttingen**, specializing in **Data Science and AI**. I build things at the intersection of rigorous research and real-world engineering — from training models on high-performance GPU clusters to shipping full-stack AI-powered applications.
 
-I currently work at **GWDG** (the German National HPC Center), where I work hands-on with large-scale GPU computing, HPC infrastructure, and distributed systems — applying data science and AI on some of Germany’s most powerful research computing clusters.
+I currently work as a **Software Engineer at GWDG** (the German National HPC Center), developing and maintaining software systems that power some of Germany’s most critical research computing infrastructure.
 
 <br/>
 
@@ -144,7 +144,7 @@ Mobile & web apps with AI at their core — React Native, Flutter, Node.js, AWS
 | 📍 **Location** | Göttingen, Germany |
 | 🔬 **Specialization** | Data Science · Machine Learning · NLP |
 | 💻 **Coursework** | Deep Learning · Natural Language Processing · Big Data · Distributed Systems |
-| 🏢 **Current Role** | AI / HPC Researcher — **GWDG** (German National HPC Center) |
+| 🏢 **Current Role** | Software Engineer — **GWDG** (German National HPC Center) |
 
 <br/>
 
