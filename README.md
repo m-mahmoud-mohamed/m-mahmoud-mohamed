@@ -1,88 +1,120 @@
-<h1 align="center">Hi, I'm Mahmoud Mohamed 👋</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahmoud%20Mohamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20%7C%20Data%20Science%20%7C%20AI%20Engineering&descAlignY=55&descSize=18"/>
+
+</div>
 
 <p align="center">
-  <b>AI/ML Researcher · Full-Stack Developer · CS Master's Student</b><br/>
-  <i>University of Göttingen, Germany 🇩🇪</i>
+  <a href="mailto:mahmoudmohamedabdellahy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/m-mahmoud-mohamed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/📍%20G%C3%B6ttingen%2C%20Germany-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-%2300c853?style=for-the-badge"/>
 </p>
+
+<br/>
+
+```python
+class Mahmoud:
+    role       = "CS Master's Student @ University of Göttingen"
+    focus      = ["Data Science", "Machine Learning", "AI Engineering"]
+    languages  = ["Python", "TypeScript", "SQL", "Bash"]
+    currently  = "Building intelligent systems that turn data into impact"
+    open_to    = ["Research Collaborations", "ML Engineering Roles", "Data Science Projects"]
+```
+
+<br/>
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 Data Science & ML
+- Design and train deep learning models for real-world tasks
+- Work with large-scale datasets on HPC/GPU clusters at **GWDG**
+- Apply NLP, generative AI, and representation learning
+- Experienced with the full ML lifecycle: data → model → deployment
+
+</td>
+<td valign="top" width="50%">
+
+### 🛠️ Engineering & Dev
+- Build full-stack applications powered by AI/ML backends
+- Mobile development with React Native & Flutter
+- Cloud infrastructure on AWS, containerized with Docker
+- Distributed systems & Big Data pipelines
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="mailto:mahmoudmohamedabdellahy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/m-mahmoud-mohamed"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat"/>
+
+**Languages**\
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**AI / Data Science**\
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Web & Mobile**\
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Infrastructure**\
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 </p>
 
 ---
 
-## 🧠 About Me
-
-I'm a Computer Science Master's student specializing in **Generative AI and Deep Learning**, with a research focus on diffusion models, discrete latent representations, and reasoning-based embeddings. I combine rigorous ML research with full-stack engineering to build production-ready AI systems.
-
-- 🔬 **Research Focus:** Diffusion models · Discrete diffusion · Embedding generation · LLM fine-tuning
-- 🖥️ **Infrastructure:** HPC/GPU cluster computing at **GWDG** (German National HPC Center)
-- 🌍 Based in **Göttingen, Germany** — open to research collaborations & opportunities
-- 📚 Coursework: Deep Learning · NLP · Data Science · Big Data & Distributed Systems
-
----
-
-## 🚀 Tech Stack
-
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-### Full-Stack Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-### Infrastructure & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🔭 Current Research & Projects
+## 🔭 Currently Working On
 
-| Project | Description | Stack |
-|---|---|---|
-| 🌀 Diffusion Models | Training & experimenting with discrete diffusion architectures for generative tasks | PyTorch · HuggingFace · HPC |
-| 🧬 Embedding Generation | Reasoning-aware embedding models for semantic retrieval | Python · Transformers |
-| 📱 Full-Stack AI Apps | End-to-end applications integrating LLMs into mobile/web products | React Native · Node.js · AWS |
-
----
-
-## 📖 Currently Exploring
-
-- Advanced discrete diffusion model architectures
-- LLM fine-tuning and RLHF techniques
-- Building production AI platforms and marketplaces
-- Distributed training on HPC clusters (SLURM)
+- 🤖 Generative AI & large language model applications
+- 📊 End-to-end data science pipelines at scale (SLURM / HPC)
+- 📱 AI-powered full-stack products (mobile + web)
+- 📖 Deep Learning research: representation learning & NLP
 
 ---
 
 <div align="center">
-
-*If you find my work interesting, feel free to ⭐ a repo or reach out — always happy to collaborate!*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
+
+<p align="center">
+  <i>✨ If something catches your eye, drop a ⭐ or reach out — always open to great ideas and collaborations!</i>
+</p>
