@@ -48,13 +48,12 @@
 
 &nbsp;&nbsp;&nbsp;💡 &nbsp;I love turning complex data into real-world impact
 
-&nbsp;&nbsp;&nbsp;📍 &nbsp;Based in **Göttingen, Germany**
+&nbsp;&nbsp;&nbsp;📍 &nbsp;Based in **Germany🇩🇪**
 
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Fun fact: I debug best at midnight
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;📚 **Courses:** Deep Learning · NLP · Data Science · Big Data · Distributed Systems
 
 <br clear="right"/>
 
@@ -147,7 +146,7 @@ mahmoud = {
     "focus"       :  ["Data Science", "Machine Learning", "AI Engineering"],
     "building"    :  ["AI-powered applications", "Scalable ML pipelines on HPC"],
     "learning"    :  ["LLMs & Generative AI", "NLP Research", "Representation Learning"],
-    "hpc"         :  "GPU cluster computing & distributed training via SLURM",
+    "hpc"         :  "GPU cluster computing & distributed training",
     "open_to"     :  ["Collaborations", "Research", "ML Engineering Roles"],
     "ask_me_about":  ["Python", "Data Science", "Deep Learning", "Full-Stack AI Apps"],
 }
