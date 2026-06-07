@@ -38,7 +38,7 @@
 
 ## &nbsp;🧑‍💻 &nbsp;Who Am I?
 
-&nbsp;&nbsp;&nbsp;🏢 &nbsp;**Software Engineer** @ [**GWDG**](https://www.gwdg.de/) — Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen
+&nbsp;&nbsp;&nbsp;🏢 &nbsp;**Software Engineer** @ [**GWDG**](https://www.gwdg.de/) — German National HPC Center
 
 &nbsp;&nbsp;&nbsp;🎓 &nbsp;**M.Sc. Computer Science** — University of Göttingen
 
@@ -48,12 +48,13 @@
 
 &nbsp;&nbsp;&nbsp;💡 &nbsp;I love turning complex data into real-world impact
 
-&nbsp;&nbsp;&nbsp;📍 &nbsp;Based in **Germany🇩🇪**
+&nbsp;&nbsp;&nbsp;📍 &nbsp;Based in **Göttingen, Germany**
 
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Fun fact: I debug best at midnight
 
 <br/>
 
+&nbsp;&nbsp;&nbsp;📚 **Courses:** Deep Learning · NLP · Data Science · Big Data · Distributed Systems
 
 <br clear="right"/>
 
@@ -87,8 +88,8 @@
 **🤖 AI & Data Science**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -127,11 +128,11 @@
 
 ---
 
-<!-- Trophies -->
+<!-- Trophies — using lucthienphong1120 fork (actively maintained, replaces broken ryo-ma vercel) -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-mahmoud-mohamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="98%"/>
+  <img src="https://github-trophies.vercel.app/?username=m-mahmoud-mohamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="98%"/>
 </div>
 
 ---
@@ -141,12 +142,12 @@
 
 ```python
 mahmoud = {
-    "role"        :  "Software Engineer @ GWDG (Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen)",
+    "role"        :  "Software Engineer @ GWDG (German National HPC Center)",
     "education"   :  "M.Sc. Computer Science — University of Göttingen",
     "focus"       :  ["Data Science", "Machine Learning", "AI Engineering"],
     "building"    :  ["AI-powered applications", "Scalable ML pipelines on HPC"],
     "learning"    :  ["LLMs & Generative AI", "NLP Research", "Representation Learning"],
-    "hpc"         :  "GPU cluster computing & distributed training",
+    "hpc"         :  "GPU cluster computing & distributed training via SLURM",
     "open_to"     :  ["Collaborations", "Research", "ML Engineering Roles"],
     "ask_me_about":  ["Python", "Data Science", "Deep Learning", "Full-Stack AI Apps"],
 }
