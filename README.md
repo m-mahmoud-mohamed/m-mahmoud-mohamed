@@ -38,7 +38,7 @@
 
 ## &nbsp;🧑‍💻 &nbsp;Who Am I?
 
-&nbsp;&nbsp;&nbsp;🏢 &nbsp;**Software Engineer** @ [**GWDG**](https://www.gwdg.de/) — German National HPC Center
+&nbsp;&nbsp;&nbsp;🏢 &nbsp;**Software Engineer** @ [**GWDG**](https://www.gwdg.de/) — Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen
 
 &nbsp;&nbsp;&nbsp;🎓 &nbsp;**M.Sc. Computer Science** — University of Göttingen
 
@@ -141,7 +141,7 @@
 
 ```python
 mahmoud = {
-    "role"        :  "Software Engineer @ GWDG (German National HPC Center)",
+    "role"        :  "Software Engineer @ GWDG (Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen)",
     "education"   :  "M.Sc. Computer Science — University of Göttingen",
     "focus"       :  ["Data Science", "Machine Learning", "AI Engineering"],
     "building"    :  ["AI-powered applications", "Scalable ML pipelines on HPC"],
