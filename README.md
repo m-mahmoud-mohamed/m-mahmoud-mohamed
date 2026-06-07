@@ -1,84 +1,71 @@
+<!-- Header Banner -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,60:0D1117,100:161B22&height=220&section=header&text=Mahmoud%20Mohamed&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Software%20Engineer%20%40%20GWDG&descAlignY=60&descSize=16&descColor=8B949E"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mahmoud%20Mohamed&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%40%20GWDG&descAlignY=60&descSize=16&descColor=ddd"/>
 </div>
 
+<!-- Typing Animation -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=M.Sc.+Computer+Science+%40+Uni+G%C3%B6ttingen;Software+Engineer+%40+GWDG+%F0%9F%87%A9%F0%9F%87%AA;Data+Science+%26+Machine+Learning;Building+AI-Powered+Systems;Open+to+Collaborations+%26+Opportunities)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=650&height=60&lines=Hey+there%2C+I'm+Mahmoud+%F0%9F%91%8B;Data+Science+%26+AI+Engineering;Software+Engineer+%40+GWDG+%F0%9F%87%A9%F0%9F%87%AA;M.Sc.+Computer+Science+%40+Uni+G%C3%B6ttingen;Let%27s+build+something+impactful+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
 </div>
 
 <br/>
 
+<!-- Social Badges -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud--mohamed/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudmohamedabdellahy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-mahmoud-mohamed)
-![Profile Views](https://komarev.com/ghpvc/?username=m-mahmoud-mohamed&style=for-the-badge&color=0e75b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud--mohamed/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudmohamedabdellahy@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-mahmoud-mohamed)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=m-mahmoud-mohamed&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/m-mahmoud-mohamed)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- About Me -->
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 - 🎓 &nbsp;**M.Sc. Computer Science** — University of Göttingen
-- 💼 &nbsp;**Software Engineer** at [GWDG](https://www.gwdg.de/) — German National HPC Center
-- 🔬 &nbsp;Specializing in **Data Science, ML & AI Engineering**
-- 🧠 &nbsp;Passionate about turning complex data into intelligent systems
-- 🌍 &nbsp;Based in **Göttingen, Germany**
-- ⚡ &nbsp;Fun fact: I debug better at night than during the day
+- 💼 &nbsp;**Software Engineer** @ [GWDG](https://www.gwdg.de/) — German National HPC Center
+- 📊 &nbsp;Specializing in **Data Science, ML & AI Engineering**
+- 🧠 &nbsp;Passionate about turning data into intelligent systems
+- ⚡ &nbsp;Working with **GPU clusters & HPC infrastructure** daily
+- 📍 &nbsp;**Göttingen, Germany** — Open to global opportunities
+- 💬 &nbsp;Ask me about **Python, ML, Data Science, Full-Stack Dev**
+- 🌙 &nbsp;Fun fact: My best code comes after midnight
 
 <br/>
 
-**Coursework:** Deep Learning · NLP · Data Science · Big Data · Distributed Systems
+> *"The goal is to turn data into information, and information into insight."*
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-**Languages & Core**
+### 🔤 Languages
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,bash,kotlin&theme=dark" />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🤖 AI & Data Science
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a2e"/>
 
-**AI & Data Science**
+### 🌐 Web & Mobile
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,mongodb,postgres&theme=dark" />
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Web & Mobile**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Infrastructure & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ☁️ Infrastructure & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,vscode&theme=dark" />
 
 </div>
 
@@ -87,58 +74,79 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="180"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-mohamed&theme=github-dark-blue&hide_border=true" height="180"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" height="180"/>
 </div>
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="98%"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=m-mahmoud-mohamed&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=m-mahmoud-mohamed&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area_color=7c3aed&area=true&hide_border=true&title_color=a78bfa" width="98%"/>
 </div>
 
 ---
 
-## 🔥 What I'm Working On
+## 🚀 Current Focus
 
 ```python
-current_focus = {
-    "role"       : "Software Engineer @ GWDG",
-    "degree"     : "M.Sc. Computer Science — Uni Göttingen",
-    "building"   : ["AI-powered applications", "Data science pipelines at scale"],
-    "learning"   : ["LLMs & Generative AI", "Representation Learning", "NLP Research"],
-    "stack"      : ["Python", "PyTorch", "HuggingFace", "React Native", "AWS"],
-    "hpc"        : "Training models on GPU clusters via SLURM",
-    "open_to"    : ["Research Collaborations", "ML Engineering", "Data Science Roles"],
-}
+class Mahmoud:
+    name       = "Mahmoud Mohamed"
+    location   = "Göttingen, Germany 🇩🇪"
+    role       = "Software Engineer @ GWDG (German National HPC Center)"
+    education  = "M.Sc. Computer Science — University of Göttingen"
+    focus      = ["Data Science", "Machine Learning", "AI Engineering", "NLP"]
+    stack      = ["Python", "PyTorch", "HuggingFace", "React Native", "AWS", "Docker"]
+    hpc        = "GPU cluster training via SLURM on research-grade hardware"
+    coursework = ["Deep Learning", "NLP", "Big Data", "Distributed Systems"]
+    open_to    = ["Research Collaborations", "ML Engineering", "Data Science Roles"]
+
+    def say_hi(self):
+        print("Thanks for visiting — let's build something great! 🚀")
 ```
 
 ---
 
+<!-- Snake Animation -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:0D1117,100:161B22&height=120&section=footer"/>
+### 🐍 My Contributions
 
-**Let's connect and build something impactful together.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/Reach%20me%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud--mohamed/)
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=130&section=footer"/>
+</div>
+
+<div align="center">
+
+**✨ Thanks for visiting! If you like what you see, drop a ⭐ on a repo.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud--mohamed/)
 
 </div>
