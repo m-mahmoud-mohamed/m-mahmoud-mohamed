@@ -29,8 +29,6 @@
   <img src="https://komarev.com/ghpvc/?username=m-mahmoud-mohamed&label=Profile+Views&color=1f6feb&style=for-the-badge"/>
 </div>
 
-<br/>
-
 ---
 
 <!-- About Me -->
