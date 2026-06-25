@@ -54,7 +54,6 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;📚 **Courses:** Deep Learning · NLP · Data Science · Big Data · Distributed Systems
 
 <br clear="right"/>
 
