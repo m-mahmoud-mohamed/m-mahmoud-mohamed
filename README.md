@@ -1,79 +1,166 @@
-<!-- Animated Header Banner with Gradient -->
+<!-- Animated Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:4a148c,100:1a0033&height=300&section=header&text=Mahmoud%20Mohamed&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=65&descSize=20&descAlign=50"/>
-</div>
-
-<!-- Typing Animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Building+Intelligent+Systems;🤖+AI+%26+ML+Engineer;💡+Full-Stack+Developer;🔬+Data+Science+Researcher" alt="Typing SVG"/>
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:4a148c,100:1a0033&height=250&section=header&text=Mahmoud%20Mohamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 </div>
 
 <br/>
 
-<!-- Social Badges with Animated Hover Effects -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/mahmoud--mohamed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=005a9c&animation=pulse"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mahmoudmohamedabdellahy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=c7221f"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/m-mahmoud-mohamed">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22&color=0d1117"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=m-mahmoud-mohamed&label=Profile+Views&color=00d4ff&style=for-the-badge&icon=github"/>
-</div>
+<!-- Main Container with Grid Layout -->
+<table width="100%" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <!-- Left Column: Avatar & Bio -->
+    <td width="35%" valign="top">
+      <div align="center">
+        <!-- Avatar with Glow Effect -->
+        <img src="https://avatars.githubusercontent.com/u/78882792?v=4" width="200" height="200" style="border-radius: 15px; border: 3px solid #00d4ff; box-shadow: 0 0 30px rgba(0, 212, 255, 0.6);" alt="Mahmoud Mohamed"/>
+        
+        <br/><br/>
+        
+        <!-- Name and Title -->
+        <h2 style="color: #00d4ff; margin: 0;">Mahmoud Mohamed</h2>
+        <p style="color: #4a148c; font-size: 14px; margin: 5px 0;">@m-mahmoud-mohamed</p>
+        
+        <hr style="border: 1px solid #1a0033; margin: 15px 0;"/>
+        
+        <!-- Bio Card -->
+        <div style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px; margin: 15px 0;">
+          <p style="color: #00d4ff; font-size: 13px; line-height: 1.6; margin: 0;">
+            🏢 <strong>Software Engineer @ GWDG</strong><br/>
+            🎓 M.Sc. Computer Science<br/>
+            🤖 AI & ML Enthusiast<br/>
+            💡 Full-Stack Developer<br/>
+            📍 Göttingen, Germany 🇩🇪
+          </p>
+        </div>
+        
+        <!-- Social Links -->
+        <div align="center" style="margin: 15px 0;">
+          <a href="https://www.linkedin.com/in/mahmoud--mohamed/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;"/>
+          </a>
+          <a href="mailto:mahmoudmohamedabdellahy@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="margin: 5px;"/>
+          </a>
+          <a href="https://github.com/m-mahmoud-mohamed">
+            <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;"/>
+          </a>
+        </div>
+        
+        <img src="https://komarev.com/ghpvc/?username=m-mahmoud-mohamed&label=Profile+Views&color=00d4ff&style=flat-square&icon=github" alt="Views"/>
+      </div>
+    </td>
+    
+    <!-- Right Column: Stats & Info -->
+    <td width="65%" valign="top">
+      <!-- About Section -->
+      <div style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 20px; margin-bottom: 15px;">
+        <h3 style="color: #00d4ff; margin-top: 0;">👨‍💻 About Me</h3>
+        <p style="color: #ffffff; line-height: 1.7; margin: 10px 0;">
+          Passionate software engineer specializing in <strong>AI, Machine Learning, and Full-Stack Development</strong>. 
+          I transform complex data into intelligent solutions with a focus on scalability and production-ready systems.
+        </p>
+        <p style="color: #ffffff; line-height: 1.7; margin: 10px 0;">
+          🔬 Working on advanced ML pipelines, HPC optimization, and generative AI applications.
+          💻 Always excited about new technologies and collaborative opportunities!
+        </p>
+      </div>
+      
+      <!-- Stats Row -->
+      <div style="display: flex; gap: 10px; margin-bottom: 15px;">
+        <!-- Repos Card -->
+        <div style="flex: 1; background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px; text-align: center;">
+          <h3 style="color: #00d4ff; margin: 0; font-size: 24px;">54</h3>
+          <p style="color: #ffffff; margin: 5px 0; font-size: 12px;">Public Repos</p>
+        </div>
+        <!-- Stars Card -->
+        <div style="flex: 1; background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px; text-align: center;">
+          <h3 style="color: #00ff88; margin: 0; font-size: 24px;">∞</h3>
+          <p style="color: #ffffff; margin: 5px 0; font-size: 12px;">Stars</p>
+        </div>
+        <!-- Followers Card -->
+        <div style="flex: 1; background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px; text-align: center;">
+          <h3 style="color: #ff00ff; margin: 0; font-size: 24px;">🔥</h3>
+          <p style="color: #ffffff; margin: 5px 0; font-size: 12px;">Active</p>
+        </div>
+      </div>
+      
+      <!-- Achievements Section -->
+      <div style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 20px;">
+        <h3 style="color: #00d4ff; margin-top: 0;">🏆 Achievements</h3>
+        <div align="center">
+          <img src="https://github-trophies.vercel.app/?username=m-mahmoud-mohamed&theme=matrix&no-frame=true&column=6&row=1&margin-w=5&margin-h=5" width="100%" alt="GitHub Trophies"/>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<!-- Animated Divider -->
+<br/>
+
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- About Me Section with GIF -->
-<img align="right" height="280px" width="400px" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);"/>
-
-## 🧑‍💻 Who Am I?
-
-> *Turning data into intelligence, one algorithm at a time* ✨
-
-🏢 **Software Engineer** @ [**GWDG**](https://www.gwdg.de/) - High-Performance Computing  
-🎓 **M.Sc. Computer Science** — University of Göttingen  
-🔬 **Specialization:** Data Science, Machine Learning & AI Engineering  
-🧠 **Passion:** Intelligent systems, large-scale data processing & HPC  
-💡 **Mission:** Build AI solutions that make real-world impact  
-📍 **Location:** Göttingen, Germany 🇩🇪  
-⚡ **Fun Fact:** Debug mode: unlocked at midnight 🌙  
-🎯 **Goal:** Creating tomorrow's AI solutions today
-
-<br clear="right"/>
-
----
-
-<!-- 3D Contribution Graph with Animation -->
-<div align="center">
-  <h2>📊 3D Contribution Visualization</h2>
+<!-- Contribution Stats Section -->
+<div align="center" style="margin: 20px 0;">
+  <h2 style="color: #00d4ff;">📊 Contribution Activity</h2>
   
-  <!-- Main Animated Contribution Graph -->
+  <table width="100%" border="0" cellpadding="0" cellspacing="10">
+    <tr>
+      <!-- GitHub Stats -->
+      <td width="50%" align="center">
+        <div style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px;">
+          <h3 style="color: #00d4ff; margin-top: 0;">📈 GitHub Stats</h3>
+          <img src="https://gh-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=nightowl&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=10" width="100%" alt="GitHub Stats"/>
+        </div>
+      </td>
+      
+      <!-- Top Languages -->
+      <td width="50%" align="center">
+        <div style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px;">
+          <h3 style="color: #00d4ff; margin-top: 0;">💻 Top Languages</h3>
+          <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=nightowl&hide_border=true&layout=vertical&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=10" width="100%" alt="Top Languages"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Contribution Graph -->
+<div align="center" style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <h2 style="color: #00d4ff; margin-top: 0;">🔥 Contribution Journey</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=0d1117&color=00d4ff&line=1f6feb&point=00d4ff&area=true&area_color=1a0033&hide_border=true&custom_title=GitHub%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
-  
-  <br/>
-  
-  <!-- Alternative 3D Visualization -->
+</div>
+
+<br/>
+
+<!-- 3D Contribution Visualization -->
+<div align="center" style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <h2 style="color: #00d4ff; margin-top: 0;">🎯 3D Contribution Visualization</h2>
   <img src="https://github-profile-3d-contrib.vercel.app/profile-summary?username=m-mahmoud-mohamed&bg=1a0033&cbase=00d4ff&caxis=4a148c&clast=00ff88&cs=0d1117&ct=00d4ff&gh=1" width="100%" alt="GitHub 3D Contribution"/>
 </div>
 
----
+<br/>
 
-<!-- Tech Stack with Animated Categories -->
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<!-- Streak Stats -->
+<div align="center" style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <h2 style="color: #00d4ff; margin-top: 0;">🔥 Contribution Streak</h2>
+  <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=FF0000&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=00d4ff&background=0d1117&stroke=4a148c" width="100%" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Tech Stack Section -->
+<h2 align="center" style="color: #00d4ff;">🛠️ Tech Stack & Skills</h2>
 
 <div align="center">
 
 ### 🐍 Programming Languages
-<div>
+<div style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px; margin: 10px 0;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
@@ -83,7 +170,7 @@
 </div>
 
 ### 🤖 AI & Machine Learning
-<div>
+<div style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px; margin: 10px 0;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
@@ -93,7 +180,7 @@
 </div>
 
 ### 🌐 Web & Frontend
-<div>
+<div style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px; margin: 10px 0;">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -102,7 +189,7 @@
 </div>
 
 ### ☁️ Cloud & DevOps
-<div>
+<div style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 15px; margin: 10px 0;">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -112,106 +199,47 @@
 
 </div>
 
----
+<br/>
 
-<!-- GitHub Stats with Animations -->
-<h2 align="center">📈 GitHub Analytics</h2>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=nightowl&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=27&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="200" alt="GitHub Stats"/>
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=nightowl&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="200" alt="Top Languages"/>
+<!-- Current Focus Section -->
+<div align="center" style="background: #0d1117; border: 2px solid #1a0033; border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <h2 style="color: #00d4ff; margin-top: 0;">🔥 Current Focus & Goals</h2>
+  
+  ```python
+  class MahmoudMohamed:
+      """Professional Profile - AI & ML Engineer"""
+      
+      def currently_working_on(self):
+          return {
+              "ai_systems": ["LLMs", "Generative AI", "NLP Research"],
+              "ml_pipelines": ["Scalable Training", "HPC Optimization"],
+              "applications": ["AI-powered Solutions", "Full-Stack Dev"]
+          }
+      
+      def expertise_in(self):
+          return [
+              "🐍 Python & Data Science",
+              "🧠 Deep Learning & NLP",
+              "💻 Full-Stack Development",
+              "☁️ Cloud Architecture"
+          ]
+  ```
 </div>
 
 <br/>
 
-<!-- GitHub Streak Stats with Custom Animation -->
+<!-- Call to Action -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=FF0000&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=00d4ff&background=0d1117&stroke=4a148c" height="220" alt="GitHub Streak"/>
-</div>
-
----
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 Achievements & Trophies</h2>
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=m-mahmoud-mohamed&theme=matrix&no-frame=true&column=7&row=2&margin-w=0&margin-h=0" alt="GitHub Trophies"/>
-</div>
-
----
-
-<!-- Current Focus Section -->
-<h2 align="center">🔥 Current Focus & Goals</h2>
-
-<div align="center">
-
-```python
-class MahmoudMohamed:
-    """Professional Profile - AI & ML Engineer"""
-    
-    def __init__(self):
-        self.role = "Software Engineer @ GWDG 🚀"
-        self.education = "M.Sc. Computer Science — University of Göttingen"
-        self.location = "Göttingen, Germany 🇩🇪"
-        self.timezone = "Europe/Berlin"
-        
-    def currently_working_on(self):
-        return {
-            "ai_systems": ["LLMs", "Generative AI", "NLP Research", "Transformers"],
-            "ml_pipelines": ["Scalable Training", "HPC Optimization", "Distributed Computing"],
-            "applications": ["AI-powered Solutions", "Full-Stack Development", "Production ML"]
-        }
-    
-    def expertise_in(self):
-        return [
-            "🐍 Python & Data Science",
-            "🧠 Deep Learning & NLP",
-            "💻 Full-Stack Development",
-            "☁️ Cloud Architecture & DevOps",
-            "⚡ HPC & GPU Computing"
-        ]
-    
-    def always_learning(self):
-        return [
-            "Advanced ML Architectures",
-            "Transformer Models & Fine-tuning",
-            "Distributed Systems Design",
-            "AI Engineering Best Practices",
-            "Large Language Models"
-        ]
-    
-    def open_to(self):
-        return [
-            "🤝 Collaborations",
-            "🔬 Research Opportunities",
-            "💻 ML Engineering Roles",
-            "🌍 Open Source Contributions",
-            "📚 Tech Mentoring"
-        ]
-
-# Initialize and let's build something amazing!
-profile = MahmoudMohamed()
-```
-
-</div>
-
----
-
-<!-- Featured Projects -->
-<h2 align="center">💼 Featured Projects</h2>
-
-<div align="center">
-  <p><i>✨ Explore my repositories for AI, ML, and full-stack projects ✨</i></p>
+  <h2 style="color: #00d4ff;">💼 Featured Projects</h2>
   <a href="https://github.com/m-mahmoud-mohamed?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects%20%E2%86%92-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/m-mahmoud-mohamed?tab=stars">
-    <img src="https://img.shields.io/badge/Starred%20Repos%20%E2%86%92-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
 </div>
 
----
+<br/>
 
 <!-- Animated Footer -->
 <div align="center">
@@ -219,8 +247,8 @@ profile = MahmoudMohamed()
 </div>
 
 <!-- Contact Section -->
-<div align="center">
-  <h3>🌐 Get In Touch</h3>
+<div align="center" style="margin: 30px 0;">
+  <h3 style="color: #00d4ff;">🌐 Get In Touch</h3>
   
   <a href="https://www.linkedin.com/in/mahmoud--mohamed/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -235,26 +263,7 @@ profile = MahmoudMohamed()
   </a>
 </div>
 
-<br/>
-
-<!-- Inspirational Quote with Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=00D4FF&background=00000000&center=true&multiline=true&width=600&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22;—+Alan+Kay" alt="Quote"/>
-</div>
-
-<!-- Horizontal Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Final Animated Message -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=00ff88&background=00000000&center=true&multiline=false&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F" alt="Thanks"/>
-</div>
-
-<br/><br/>
-
-<!-- GitHub Metrics (Optional: Uncomment if you want additional metrics) -->
-<div align="center">
-  <a href="https://github.com/m-mahmoud-mohamed">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-mahmoud-mohamed&theme=2077&hide_border=true" width="100%" alt="Profile Summary"/>
-  </a>
+<div align="center" style="margin-top: 20px; color: #00d4ff; font-style: italic;">
+  <p>"The best way to predict the future is to invent it." — Alan Kay</p>
+  <p>Thanks for visiting my profile! 🙏</p>
 </div>
