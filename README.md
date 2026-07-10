@@ -123,22 +123,40 @@ mahmoud = {
 
 ## 📊 GitHub Analytics
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&count_private=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&card_width=420" height="200"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&count_private=true" height="200"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-snake-dark.svg" width="98%"/>
+  </picture>
 </div>
 
-<br/>
+---
+
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700" height="200"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=1a1b27&color=79c0ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Activity%20Graph%20%E2%80%94%20Last%2031%20Days&radius=6&height=280" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=1a1b27&color=79c0ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days&radius=6&height=280" width="98%"/>
 </div>
 
 ---
@@ -147,6 +165,14 @@ mahmoud = {
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=m-mahmoud-mohamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="98%"/>
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 </div>
 
 ---
