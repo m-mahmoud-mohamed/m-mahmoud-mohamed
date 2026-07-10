@@ -1,13 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Mahmoud%20Mohamed&fontSize=55&fontColor=79c0ff&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20Diffusion%20Models%20%C2%B7%20NLP%20%C2%B7%20HPC&descAlignY=60&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20NLP%20%C2%B7%20HPC%20%C2%B7%20ML%20Systems&descAlignY=62&descAlign=50&descSize=18"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=79C0FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=520&height=70&lines=Building+AI+Solutions+%F0%9F%A4%96;Scaling+ML+Pipelines+on+HPC+%E2%9A%A1;Diffusion+Models+%26+NLP+Research+%F0%9F%94%AC;GPU+Cluster+%7C+SLURM+%7C+DeepSpeed+%F0%9F%9A%80"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=79C0FF&center=true&vCenter=true&width=540&height=70&lines=Building+AI+Research+Systems+%F0%9F%A4%96;Scaling+ML+on+HPC+Clusters+%E2%9A%A1;NLP+%26+Representation+Learning+%F0%9F%94%AC;GPU+Cluster+%7C+SLURM+%7C+DeepSpeed+%F0%9F%9A%80;Open+to+Collaborations+%F0%9F%8C%8D"/>
 </div>
 
 <br/>
@@ -34,7 +32,7 @@
 ---
 
 <!-- About Me -->
-<img align="right" height="270px" width="380px" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" height="260px" width="360px" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 ## &nbsp;🧑‍💻 &nbsp;Who Am I?
 
@@ -42,9 +40,9 @@
 
 &nbsp;&nbsp;&nbsp;🎓 &nbsp;**M.Sc. Computer Science** — University of Göttingen
 
-&nbsp;&nbsp;&nbsp;🔬 &nbsp;Researching **Diffusion Models, NLP & Representation Learning**
+&nbsp;&nbsp;&nbsp;🔬 &nbsp;Researching **NLP, Reasoning Embeddings & Representation Learning**
 
-&nbsp;&nbsp;&nbsp;🧠 &nbsp;Passionate about intelligent systems & large-scale data
+&nbsp;&nbsp;&nbsp;🧠 &nbsp;Passionate about intelligent systems & large-scale computing
 
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Working with **A100/H100 GPUs**, SLURM & DeepSpeed daily
 
@@ -66,12 +64,12 @@
 mahmoud = {
     "role"        :  "AI Research Engineer @ GWDG",
     "education"   :  "M.Sc. Computer Science — University of Göttingen",
-    "research"    :  ["Diffusion Models", "Reasoning Embeddings", "NLP"],
-    "building"    :  ["RIDE: Reasoning-Informed Diffusion Embeddings", "Scalable ML pipelines on HPC"],
-    "learning"    :  ["Discrete Diffusion Architectures", "Vision-Language Models", "Chain-of-Thought in Embeddings"],
+    "research"    :  ["Reasoning Embeddings", "NLP", "Representation Learning"],
+    "building"    :  ["RIDE: Reasoning-Informed Embedding Systems", "Scalable ML pipelines on HPC"],
+    "learning"    :  ["Vision-Language Models", "Chain-of-Thought in Embeddings", "Advanced LLM Architectures"],
     "hpc"         :  "Multi-node GPU training (A100/H100) via SLURM & DeepSpeed",
     "open_to"     :  ["Research Collaborations", "ML Engineering Roles", "Open Source"],
-    "ask_me_about":  ["Python", "Diffusion Models", "HPC/SLURM", "Deep Learning", "NLP"],
+    "ask_me_about":  ["Python", "HPC/SLURM", "Deep Learning", "NLP", "Full-Stack AI Apps"],
 }
 ```
 
@@ -123,23 +121,24 @@ mahmoud = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&card_width=420" height="200"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&count_private=true" height="200"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="195"/>
+  <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700" height="200"/>
 </div>
 
----
-
-## 📈 Contribution Graph
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=0d1117&color=79c0ff&line=1f6feb&point=79c0ff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Mahmoud%27s%20Contribution%20Graph&radius=8" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=1a1b27&color=79c0ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Activity%20Graph%20—%20Last%2031%20Days&radius=6&height=280" width="98%"/>
 </div>
 
 ---
@@ -154,7 +153,7 @@ mahmoud = {
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=130&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=24&fontColor=79c0ff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=140&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=26&fontColor=ffffff"/>
 </div>
 
 <div align="center">
