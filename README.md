@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=58&fontColor=79c0ff&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20NLP%20%C2%B7%20HPC%20%C2%B7%20ML%20Systems&descAlignY=62&descAlign=50&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:4C566A&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=58&fontColor=88C0D0&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20NLP%20%C2%B7%20HPC%20%C2%B7%20ML%20Systems&descAlignY=62&descAlign=50&descSize=18"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=79C0FF&center=true&vCenter=true&width=540&height=70&lines=Building+AI+Research+Systems+%F0%9F%A4%96;Scaling+ML+on+HPC+Clusters+%E2%9A%A1;NLP+%26+Representation+Learning+%F0%9F%94%AC;GPU+Cluster+%7C+SLURM+%7C+DeepSpeed+%F0%9F%9A%80;Open+to+Collaborations+%F0%9F%8C%8D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&width=540&height=70&lines=Building+AI+Research+Systems+%F0%9F%A4%96;Scaling+ML+on+HPC+Clusters+%E2%9A%A1;NLP+%26+Representation+Learning+%F0%9F%94%AC;GPU+Cluster+%7C+SLURM+%7C+DeepSpeed+%F0%9F%9A%80;Open+to+Collaborations+%F0%9F%8C%8D"/>
 </div>
 
 <br/>
@@ -21,10 +21,10 @@
   </a>
   &nbsp;
   <a href="https://github.com/m-mahmoud-mohamed">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=88C0D0"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=m-mahmoud-mohamed&label=Profile+Views&color=1f6feb&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=m-mahmoud-mohamed&label=Profile+Views&color=5E81AC&style=for-the-badge"/>
 </div>
 
 <br/>
@@ -114,7 +114,7 @@ mahmoud = {
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SLURM](https://img.shields.io/badge/SLURM-HPC-0A66C2?style=for-the-badge&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-HPC-5E81AC?style=for-the-badge&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
@@ -126,15 +126,15 @@ mahmoud = {
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=nord&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=nord&hide_border=true&layout=donut&langs_count=8&count_private=true" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
+      <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ mahmoud = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=1a1b27&color=79c0ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days&radius=6&height=280" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=2E3440&color=88C0D0&line=5E81AC&point=ECEFF4&area=true&area_color=3B4252&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days&radius=6&height=280" width="98%"/>
 </div>
 
 ---
@@ -164,7 +164,7 @@ mahmoud = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=m-mahmoud-mohamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="98%"/>
+  <img src="https://github-trophies.vercel.app/?username=m-mahmoud-mohamed&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="98%"/>
 </div>
 
 ---
@@ -172,14 +172,14 @@ mahmoud = {
 ## 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" width="80%"/>
 </div>
 
 ---
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=140&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=26&fontColor=79c0ff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C566A,50:3B4252,100:2E3440&height=140&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=26&fontColor=88C0D0"/>
 </div>
 
 <div align="center">
