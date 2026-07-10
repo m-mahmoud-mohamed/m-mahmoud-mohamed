@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0d1117,50:1a1b27,100:0d1117&amp;height=250&amp;section=header&amp;text=Mahmoud%20Mohamed&amp;fontSize=60&amp;fontColor=79c0ff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&amp;descAlignY=51&amp;descAlign=62"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Mahmoud%20Mohamed&fontSize=55&fontColor=79c0ff&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20Diffusion%20Models%20%C2%B7%20NLP%20%C2%B7%20HPC&descAlignY=60&descAlign=50"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=79C0FF&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;random=false&amp;width=500&amp;height=70&amp;lines=Building+AI+Solutions+%F0%9F%A4%96;Scaling+ML+Pipelines+%E2%9A%A1;Exploring+HPC+Computing+%F0%9F%9A%80"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=79C0FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=520&height=70&lines=Building+AI+Solutions+%F0%9F%A4%96;Scaling+ML+Pipelines+on+HPC+%E2%9A%A1;Diffusion+Models+%26+NLP+Research+%F0%9F%94%AC;GPU+Cluster+%7C+SLURM+%7C+DeepSpeed+%F0%9F%9A%80"/>
   </a>
 </div>
 
@@ -15,18 +15,18 @@
 <!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/mahmoud--mohamed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:mahmoudmohamedabdellahy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/m-mahmoud-mohamed">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=m-mahmoud-mohamed&amp;label=Profile+Views&amp;color=1f6feb&amp;style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=m-mahmoud-mohamed&label=Profile+Views&color=1f6feb&style=for-the-badge"/>
 </div>
 
 <br/>
@@ -38,19 +38,19 @@
 
 ## &nbsp;🧑‍💻 &nbsp;Who Am I?
 
-&nbsp;&nbsp;&nbsp;🏢 &nbsp;**Software Engineer** @ [**GWDG**](https://www.gwdg.de/) 
+&nbsp;&nbsp;&nbsp;🏢 &nbsp;**AI Research Engineer** @ [**GWDG**](https://www.gwdg.de/)
 
 &nbsp;&nbsp;&nbsp;🎓 &nbsp;**M.Sc. Computer Science** — University of Göttingen
 
-&nbsp;&nbsp;&nbsp;🔬 &nbsp;Specialized in **Data Science & AI**
+&nbsp;&nbsp;&nbsp;🔬 &nbsp;Researching **Diffusion Models, NLP & Representation Learning**
 
 &nbsp;&nbsp;&nbsp;🧠 &nbsp;Passionate about intelligent systems & large-scale data
 
-&nbsp;&nbsp;&nbsp;💡 &nbsp;I love turning complex data into real-world impact
+&nbsp;&nbsp;&nbsp;⚡ &nbsp;Working with **A100/H100 GPUs**, SLURM & DeepSpeed daily
 
 &nbsp;&nbsp;&nbsp;📍 &nbsp;Based in **Göttingen, Germany** 🇩🇪
 
-&nbsp;&nbsp;&nbsp;⚡ &nbsp;Fun fact: I debug best at midnight
+&nbsp;&nbsp;&nbsp;🌙 &nbsp;Fun fact: I debug best at midnight
 
 <br/>
 
@@ -60,106 +60,105 @@
 
 ---
 
-<!-- Contribution Graph -->
-## 📈 Contribution Graph
+## 🔥 Current Focus
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&amp;bg_color=0d1117&amp;color=79c0ff&amp;line=1f6feb&amp;point=79c0ff&amp;area=true&amp;area_color=1f3a6e&amp;hide_border=true&amp;custom_title=Contribution%20Graph"/>
-</div>
+```python
+mahmoud = {
+    "role"        :  "AI Research Engineer @ GWDG",
+    "education"   :  "M.Sc. Computer Science — University of Göttingen",
+    "research"    :  ["Diffusion Models", "Reasoning Embeddings", "NLP"],
+    "building"    :  ["RIDE: Reasoning-Informed Diffusion Embeddings", "Scalable ML pipelines on HPC"],
+    "learning"    :  ["Discrete Diffusion Architectures", "Vision-Language Models", "Chain-of-Thought in Embeddings"],
+    "hpc"         :  "Multi-node GPU training (A100/H100) via SLURM & DeepSpeed",
+    "open_to"     :  ["Research Collaborations", "ML Engineering Roles", "Open Source"],
+    "ask_me_about":  ["Python", "Diffusion Models", "HPC/SLURM", "Deep Learning", "NLP"],
+}
+```
 
 ---
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **🐍 Languages**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**🤖 AI & Data Science**
+**🤖 AI & Research**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&amp;logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&amp;logo=pandas&amp;logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 **🌐 Web & Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**☁️ Cloud & DevOps**
+**☁️ Cloud, HPC & DevOps**
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-HPC-0A66C2?style=for-the-badge&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
 ---
 
-<!-- GitHub Stats — using gh-readme-stats.vercel.app (community mirror, avoids rate-limit on anuraghazra public instance) -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&amp;theme=tokyonight&amp;hide_border=true&amp;show_icons=true&amp;rank_icon=github" height="195"/>
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" height="195"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" height="195"/>
+  <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="195"/>
 </div>
 
 ---
 
-<!-- Trophies -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=0d1117&color=79c0ff&line=1f6feb&point=79c0ff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Mahmoud%27s%20Contribution%20Graph&radius=8" width="98%"/>
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=m-mahmoud-mohamed&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" width="98%"/>
+  <img src="https://github-trophies.vercel.app/?username=m-mahmoud-mohamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="98%"/>
 </div>
-
----
-
-<!-- Currently working on -->
-## 🔥 Current Focus
-
-```python
-mahmoud = {
-    "role"        :  "Software Engineer @ GWDG ",
-    "education"   :  "M.Sc. Computer Science — University of Göttingen",
-    "focus"       :  ["Data Science", "Machine Learning", "AI Engineering"],
-    "building"    :  ["AI-powered applications", "Scalable ML pipelines on HPC"],
-    "learning"    :  ["LLMs & Generative AI", "NLP Research", "Representation Learning"],
-    "hpc"         :  "GPU cluster computing & distributed training via SLURM",
-    "open_to"     :  ["Collaborations", "Research", "ML Engineering Roles"],
-    "ask_me_about":  ["Python", "Data Science", "Deep Learning", "Full-Stack AI Apps"],
-}
-```
 
 ---
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1b27,100:0d1117&amp;height=130&amp;section=footer&amp;text=Let's%20Build%20Something%20Great&amp;fontSize=24&amp;fontColor=79c0ff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=130&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=24&fontColor=79c0ff"/>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mahmoud--mohamed/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
