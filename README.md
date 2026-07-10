@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20NLP%20%C2%B7%20HPC%20%C2%B7%20ML%20Systems&descAlignY=62&descAlign=50&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=58&fontColor=79c0ff&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20NLP%20%C2%B7%20HPC%20%C2%B7%20ML%20Systems&descAlignY=62&descAlign=50&descSize=18"/>
 </div>
 
 <!-- Typing Animation -->
@@ -138,7 +138,7 @@ mahmoud = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=1a1b27&color=79c0ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Activity%20Graph%20—%20Last%2031%20Days&radius=6&height=280" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahmoud-mohamed&bg_color=1a1b27&color=79c0ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Activity%20Graph%20%E2%80%94%20Last%2031%20Days&radius=6&height=280" width="98%"/>
 </div>
 
 ---
@@ -153,7 +153,7 @@ mahmoud = {
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=140&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=26&fontColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=140&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=26&fontColor=79c0ff"/>
 </div>
 
 <div align="center">
