@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:4C566A&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=58&fontColor=88C0D0&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20NLP%20%C2%B7%20HPC%20%C2%B7%20ML%20Systems&descAlignY=62&descAlign=50&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:4C566A&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=58&fontColor=88C0D0&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&descAlignY=62&descAlign=50&descSize=18"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&width=540&height=70&lines=Building+AI+Research+Systems+%F0%9F%A4%96;Scaling+ML+on+HPC+Clusters+%E2%9A%A1;NLP+%26+Representation+Learning+%F0%9F%94%AC;GPU+Cluster+%7C+SLURM+%7C+DeepSpeed+%F0%9F%9A%80;Open+to+Collaborations+%F0%9F%8C%8D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&width=540&height=70&lines=Building+AI+Solutions+%F0%9F%A4%96;Scaling+ML+Pipelines+%E2%9A%A1;Exploring+AI+%26+Data+Science+%F0%9F%94%AC;Open+to+Collaborations+%F0%9F%8C%8D"/>
 </div>
 
 <br/>
@@ -32,23 +32,23 @@
 ---
 
 <!-- About Me -->
-<img align="right" height="260px" width="360px" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" height="270px" width="380px" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 ## &nbsp;🧑‍💻 &nbsp;Who Am I?
 
-&nbsp;&nbsp;&nbsp;🏢 &nbsp;**AI Research Engineer** @ [**GWDG**](https://www.gwdg.de/)
+&nbsp;&nbsp;&nbsp;🏢 &nbsp;**Software Engineer** @ [**GWDG**](https://www.gwdg.de/)
 
 &nbsp;&nbsp;&nbsp;🎓 &nbsp;**M.Sc. Computer Science** — University of Göttingen
 
-&nbsp;&nbsp;&nbsp;🔬 &nbsp;Researching **NLP, Reasoning Embeddings & Representation Learning**
+&nbsp;&nbsp;&nbsp;🔬 &nbsp;Specialized in **Data Science & AI**
 
-&nbsp;&nbsp;&nbsp;🧠 &nbsp;Passionate about intelligent systems & large-scale computing
+&nbsp;&nbsp;&nbsp;🧠 &nbsp;Passionate about intelligent systems & large-scale data
 
-&nbsp;&nbsp;&nbsp;⚡ &nbsp;Working with **A100/H100 GPUs**, SLURM & DeepSpeed daily
+&nbsp;&nbsp;&nbsp;💡 &nbsp;I love turning complex data into real-world impact
 
 &nbsp;&nbsp;&nbsp;📍 &nbsp;Based in **Göttingen, Germany** 🇩🇪
 
-&nbsp;&nbsp;&nbsp;🌙 &nbsp;Fun fact: I debug best at midnight
+&nbsp;&nbsp;&nbsp;⚡ &nbsp;Fun fact: I debug best at midnight
 
 <br/>
 
@@ -62,14 +62,13 @@
 
 ```python
 mahmoud = {
-    "role"        :  "AI Research Engineer @ GWDG",
+    "role"        :  "Software Engineer @ GWDG",
     "education"   :  "M.Sc. Computer Science — University of Göttingen",
-    "research"    :  ["Reasoning Embeddings", "NLP", "Representation Learning"],
-    "building"    :  ["RIDE: Reasoning-Informed Embedding Systems", "Scalable ML pipelines on HPC"],
-    "learning"    :  ["Vision-Language Models", "Chain-of-Thought in Embeddings", "Advanced LLM Architectures"],
-    "hpc"         :  "Multi-node GPU training (A100/H100) via SLURM & DeepSpeed",
-    "open_to"     :  ["Research Collaborations", "ML Engineering Roles", "Open Source"],
-    "ask_me_about":  ["Python", "HPC/SLURM", "Deep Learning", "NLP", "Full-Stack AI Apps"],
+    "focus"       :  ["Data Science", "Machine Learning", "AI Engineering"],
+    "building"    :  ["AI-powered applications", "Scalable ML pipelines"],
+    "learning"    :  ["LLMs & Generative AI", "NLP Research", "Representation Learning"],
+    "open_to"     :  ["Collaborations", "Research", "ML Engineering Roles"],
+    "ask_me_about":  ["Python", "Data Science", "Deep Learning", "Full-Stack AI Apps"],
 }
 ```
 
@@ -89,7 +88,7 @@ mahmoud = {
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**🤖 AI & Research**
+**🤖 AI & Data Science**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
@@ -106,15 +105,12 @@ mahmoud = {
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**☁️ Cloud, HPC & DevOps**
+**☁️ Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SLURM](https://img.shields.io/badge/SLURM-HPC-5E81AC?style=for-the-badge&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
