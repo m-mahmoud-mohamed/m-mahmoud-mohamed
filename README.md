@@ -1,6 +1,6 @@
-<!-- Header Banner -->
+<!-- Animated Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:4C566A&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=58&fontColor=88C0D0&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&descAlignY=62&descAlign=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E3440,100:4C566A&height=200&section=header&text=Mahmoud%20Mohamed&fontSize=56&fontColor=88C0D0&animation=blinking&fontAlignY=55&rotate=0" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
