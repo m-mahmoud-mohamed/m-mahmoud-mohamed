@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Intro Banner</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 1400px;
+      height: 400px;
+      overflow: hidden;
+      background: #ffffff;
+      border: 3px solid #1a1a1a;
+      font-family: 'Courier New', Courier, monospace;
+    }
+
+    #particles-js {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      z-index: 0;
+    }
+
+    .content {
+      position: absolute;
+      z-index: 10;
+      top: 50%;
+      left: 60px;
+      transform: translateY(-50%);
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .wave {
+      font-size: 64px;
+      animation: wave 1.5s infinite;
+      transform-origin: 70% 70%;
+      display: inline-block;
+    }
+
+    @keyframes wave {
+      0%   { transform: rotate(  0deg); }
+      10%  { transform: rotate(-10deg); }
+      20%  { transform: rotate( 12deg); }
+      30%  { transform: rotate(-10deg); }
+      40%  { transform: rotate(  9deg); }
+      50%  { transform: rotate(  0deg); }
+      100% { transform: rotate(  0deg); }
+    }
+
+    #typed-text {
+      font-size: 48px;
+      font-weight: bold;
+      color: #1a1a1a;
+    }
+
+    .typed-cursor {
+      font-size: 48px;
+      font-weight: bold;
+      color: #1a1a1a;
+      animation: blink 0.7s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0; }
+    }
+  </style>
+</head>
+<body>
+  <div id="particles-js"></div>
+  <div class="content">
+    <span class="wave">👋</span>
+    <span id="typed-text"></span>
+  </div>
+
+  <!-- Particles.js -->
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <!-- Typed.js -->
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js"></script>
+
+  <script>
+    particlesJS('particles-js', {
+      particles: {
+        number: { value: 80, density: { enable: true, value_area: 800 } },
+        color: { value: '#888888' },
+        shape: { type: 'circle' },
+        opacity: { value: 0.5 },
+        size: { value: 3, random: true },
+        line_linked: {
+          enable: true,
+          distance: 150,
+          color: '#aaaaaa',
+          opacity: 0.4,
+          width: 1
+        },
+        move: {
+          enable: true,
+          speed: 2,
+          direction: 'none',
+          random: false,
+          straight: false,
+          out_mode: 'out',
+          bounce: false
+        }
+      },
+      interactivity: {
+        detect_on: 'canvas',
+        events: { onhover: { enable: false }, onclick: { enable: false } }
+      },
+      retina_detect: true
+    });
+
+    new Typed('#typed-text', {
+      strings: [
+        "Hi there! I'm Mahmoud",
+        "Software Engineer @ GWDG",
+        "AI & Data Science Enthusiast",
+        "Let's build something great!"
+      ],
+      typeSpeed: 60,
+      backSpeed: 30,
+      backDelay: 1800,
+      loop: true,
+      showCursor: true,
+      cursorChar: '|'
+    });
+  </script>
+</body>
+</html>
