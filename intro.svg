@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .border { fill: none; stroke: #1a1a1a; stroke-width: 4; }
+
+      /* Particle dots */
+      .dot { fill: #999; }
+
+      /* Lines between particles */
+      .line { stroke: #bbb; stroke-width: 1; opacity: 0.6; }
+
+      /* Particle movement animations */
+      @keyframes p1 { 0%{transform:translate(0,0)} 33%{transform:translate(18px,-12px)} 66%{transform:translate(-10px,20px)} 100%{transform:translate(0,0)} }
+      @keyframes p2 { 0%{transform:translate(0,0)} 33%{transform:translate(-15px,10px)} 66%{transform:translate(20px,-8px)} 100%{transform:translate(0,0)} }
+      @keyframes p3 { 0%{transform:translate(0,0)} 33%{transform:translate(10px,15px)} 66%{transform:translate(-20px,-5px)} 100%{transform:translate(0,0)} }
+      @keyframes p4 { 0%{transform:translate(0,0)} 33%{transform:translate(-8px,-18px)} 66%{transform:translate(15px,12px)} 100%{transform:translate(0,0)} }
+      @keyframes p5 { 0%{transform:translate(0,0)} 33%{transform:translate(20px,8px)} 66%{transform:translate(-12px,-15px)} 100%{transform:translate(0,0)} }
+      @keyframes p6 { 0%{transform:translate(0,0)} 33%{transform:translate(-18px,12px)} 66%{transform:translate(8px,-20px)} 100%{transform:translate(0,0)} }
+      @keyframes p7 { 0%{transform:translate(0,0)} 33%{transform:translate(12px,-10px)} 66%{transform:translate(-18px,15px)} 100%{transform:translate(0,0)} }
+      @keyframes p8 { 0%{transform:translate(0,0)} 33%{transform:translate(-20px,-8px)} 66%{transform:translate(10px,18px)} 100%{transform:translate(0,0)} }
+      @keyframes p9 { 0%{transform:translate(0,0)} 33%{transform:translate(15px,20px)} 66%{transform:translate(-10px,-12px)} 100%{transform:translate(0,0)} }
+      @keyframes p10{ 0%{transform:translate(0,0)} 33%{transform:translate(-12px,18px)} 66%{transform:translate(20px,-10px)} 100%{transform:translate(0,0)} }
+      @keyframes p11{ 0%{transform:translate(0,0)} 33%{transform:translate(8px,-20px)} 66%{transform:translate(-15px,10px)} 100%{transform:translate(0,0)} }
+      @keyframes p12{ 0%{transform:translate(0,0)} 33%{transform:translate(-10px,8px)} 66%{transform:translate(18px,-18px)} 100%{transform:translate(0,0)} }
+
+      .d1  { animation: p1  8s ease-in-out infinite; }
+      .d2  { animation: p2  9s ease-in-out infinite; }
+      .d3  { animation: p3  7s ease-in-out infinite; }
+      .d4  { animation: p4  10s ease-in-out infinite; }
+      .d5  { animation: p5  8.5s ease-in-out infinite; }
+      .d6  { animation: p6  9.5s ease-in-out infinite; }
+      .d7  { animation: p7  7.5s ease-in-out infinite; }
+      .d8  { animation: p8  11s ease-in-out infinite; }
+      .d9  { animation: p9  8s ease-in-out infinite; }
+      .d10 { animation: p10 9s ease-in-out infinite; }
+      .d11 { animation: p11 10s ease-in-out infinite; }
+      .d12 { animation: p12 7s ease-in-out infinite; }
+
+      /* Typewriter text */
+      .label {
+        font-family: 'Courier New', monospace;
+        font-weight: bold;
+        font-size: 42px;
+        fill: #1a1a1a;
+      }
+      .wave-emoji {
+        font-size: 52px;
+      }
+
+      /* Typewriter reveal animation */
+      @keyframes typing1 {
+        0%,2%   { width: 0; }
+        28%,48% { width: 21ch; }
+        52%,100%{ width: 0; }
+      }
+      @keyframes typing2 {
+        0%,52%  { width: 0; }
+        58%,78% { width: 22ch; }
+        82%,100%{ width: 0; }
+      }
+
+      @keyframes cursor-blink {
+        0%,100%{ opacity:1; } 50%{ opacity:0; }
+      }
+
+      .typed-wrap {
+        overflow: hidden;
+        white-space: nowrap;
+        display: inline-block;
+      }
+      .t1 { animation: typing1 8s steps(21,end) infinite; }
+      .t2 { animation: typing2 8s steps(22,end) infinite; }
+
+      .cursor {
+        fill: #1a1a1a;
+        animation: cursor-blink 0.7s infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="1200" height="300" rx="6"/>
+  <rect class="border" width="1196" height="296" x="2" y="2" rx="5"/>
+
+  <!-- Particle lines (static background web) -->
+  <g class="line">
+    <line x1="100" y1="60"  x2="280" y2="130"/>
+    <line x1="280" y1="130" x2="450" y2="80"/>
+    <line x1="450" y1="80"  x2="650" y2="200"/>
+    <line x1="650" y1="200" x2="850" y2="100"/>
+    <line x1="850" y1="100" x2="1050" y2="180"/>
+    <line x1="1050" y1="180" x2="1150" y2="80"/>
+    <line x1="100" y1="60"  x2="450" y2="80"/>
+    <line x1="280" y1="130" x2="650" y2="200"/>
+    <line x1="450" y1="80"  x2="850" y2="100"/>
+    <line x1="650" y1="200" x2="1050" y2="180"/>
+    <line x1="100" y1="220" x2="280" y2="130"/>
+    <line x1="100" y1="220" x2="650" y2="200"/>
+    <line x1="850" y1="240" x2="650" y2="200"/>
+    <line x1="850" y1="240" x2="1050" y2="180"/>
+    <line x1="1150" y1="240" x2="1050" y2="180"/>
+    <line x1="1150" y1="240" x2="850" y2="240"/>
+    <line x1="350" y1="240" x2="100" y2="220"/>
+    <line x1="350" y1="240" x2="280" y2="130"/>
+    <line x1="350" y1="240" x2="650" y2="200"/>
+  </g>
+
+  <!-- Animated particle dots -->
+  <circle class="dot d1"  cx="100"  cy="60"  r="4"/>
+  <circle class="dot d2"  cx="280"  cy="130" r="4"/>
+  <circle class="dot d3"  cx="450"  cy="80"  r="3"/>
+  <circle class="dot d4"  cx="650"  cy="200" r="4"/>
+  <circle class="dot d5"  cx="850"  cy="100" r="3"/>
+  <circle class="dot d6"  cx="1050" cy="180" r="4"/>
+  <circle class="dot d7"  cx="1150" cy="80"  r="3"/>
+  <circle class="dot d8"  cx="100"  cy="220" r="4"/>
+  <circle class="dot d9"  cx="350"  cy="240" r="3"/>
+  <circle class="dot d10" cx="850"  cy="240" r="4"/>
+  <circle class="dot d11" cx="1150" cy="240" r="3"/>
+  <circle class="dot d12" cx="550"  cy="40"  r="3"/>
+
+  <!-- Waving hand emoji -->
+  <text x="60" y="178" font-size="58" font-family="serif">👋</text>
+
+  <!-- Typewriter line 1: Hi there! I'm Mahmoud -->
+  <svg x="135" y="120" overflow="hidden">
+    <rect width="0" height="60" fill="white">
+      <animate attributeName="width" values="0;630;630;0;0" keyTimes="0;0.25;0.48;0.52;1" dur="10s" repeatCount="indefinite"/>
+    </rect>
+    <text class="label" x="0" y="48">
+      <animate attributeName="textLength" values="0;630;630;0;0" keyTimes="0;0.25;0.48;0.52;1" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0;0.25;0.48;0.52;1" dur="10s" repeatCount="indefinite"/>
+      Hi there! I'm Mahmoud
+    </text>
+  </svg>
+
+  <!-- Typewriter line 2: Software Engineer @ GWDG -->
+  <svg x="135" y="120" overflow="hidden">
+    <text class="label" x="0" y="48" opacity="0">
+      <animate attributeName="textLength" values="0;0;660;660;0" keyTimes="0;0.52;0.75;0.96;1" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.52;0.55;0.96;1" dur="10s" repeatCount="indefinite"/>
+      Software Engineer @ GWDG
+    </text>
+  </svg>
+
+  <!-- Blinking cursor -->
+  <text class="label cursor" x="140" y="168">|</text>
+
+</svg>
