@@ -1,11 +1,6 @@
-<!-- Animated Header Banner -->
+<!-- Animated Intro Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E3440,100:4C566A&height=200&section=header&text=Mahmoud%20Mohamed&fontSize=56&fontColor=88C0D0&animation=blinking&fontAlignY=55&rotate=0" width="100%"/>
-</div>
-
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&width=540&height=70&lines=Building+AI+Solutions+%F0%9F%A4%96;Scaling+ML+Pipelines+%E2%9A%A1;Exploring+AI+%26+Data+Science+%F0%9F%94%AC;Open+to+Collaborations+%F0%9F%8C%8D"/>
+  <img src="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/main/intro.svg" width="100%" alt="Hi there! I'm Mahmoud"/>
 </div>
 
 <br/>
