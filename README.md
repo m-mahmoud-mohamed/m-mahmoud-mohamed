@@ -1,6 +1,6 @@
-<!-- Animated Intro Banner -->
+<!-- Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/main/intro.svg" width="100%" alt="Hi there! I'm Mahmoud"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=88C0D0&background=2E344000&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hi+there!+I%27m+Mahmoud;Software+Engineer+%40+GWDG;AI+%26+Data+Science+Enthusiast;Let%27s+build+something+great!" alt="Typing SVG"/>
 </div>
 
 <br/>
