@@ -114,21 +114,14 @@ mahmoud = {
 
 ## 📊 GitHub Analytics
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-mohamed&theme=nord&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&theme=nord&hide_border=true&layout=donut&langs_count=8&count_private=true" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m-mahmoud-mohamed&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m-mahmoud-mohamed&layout=compact&langs_count=8&theme=nord&hide_border=true&count_private=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=m-mahmoud-mohamed&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180em"/>
+</div>
 
 ---
 
@@ -136,8 +129,8 @@ mahmoud = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-snake.svg"/>
     <img alt="github-snake" src="https://raw.githubusercontent.com/m-mahmoud-mohamed/m-mahmoud-mohamed/output/github-snake-dark.svg" width="98%"/>
   </picture>
 </div>
