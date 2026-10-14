@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mahmoud Abdellahi, AI and Software Engineer, Co-founder of Qexlify">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1022"/><stop offset="1" stop-color="#0c4352"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#818cf8"/></linearGradient><pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" opacity=".17"/></pattern></defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/><rect width="1200" height="360" rx="18" fill="url(#dots)"/>
+<rect x="51" y="37" width="225" height="30" rx="15" fill="#14445a"/><circle cx="69" cy="52" r="5" fill="#5eead4"/>
+<text x="85" y="57" fill="#c1f5f0" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="bold" letter-spacing="2">BUILDER / RESEARCHER</text>
+<text x="50" y="146" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="bold">Mahmoud Abdellahi</text>
+<rect x="52" y="164" width="165" height="4" rx="2" fill="url(#line)"/>
+<text x="52" y="210" fill="#9ae9ee" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="bold">AI &amp; Software Engineer</text>
+<text x="52" y="252" fill="#e2e8f0" font-family="Arial,Helvetica,sans-serif" font-size="21">Co-founder @ Qexlify</text>
+<text x="52" y="289" fill="#a9bed0" font-family="Arial,Helvetica,sans-serif" font-size="17">Agentic AI &#183; LLM systems &#183; Research to production</text>
+<path d="M50 316 H1150" stroke="#8fa6b6" opacity=".3"/>
+<text x="52" y="338" fill="#8fa6b6" font-family="Arial,Helvetica,sans-serif" font-size="13">GÖTTINGEN, GERMANY</text>
+<g transform="translate(982 172)" fill="none"><circle r="121" stroke="#60a5fa" stroke-dasharray="5 8" opacity=".4"/><circle r="91" stroke="#5eead4" opacity=".3"/><circle r="65" stroke="#5eead4"/><path d="M-105 18 L-62 -68 L44 -106 L104 -4 L45 102 L-68 74 Z" stroke="#67e8f9" opacity=".6"/><path d="M-19 -20 L0 -39 L24 -20 L24 18 L0 38 L-19 18 Z M-19 18 L0 -2 L24 18 M0 -2 V-39" stroke="url(#line)" stroke-width="4"/><circle cx="-105" cy="18" r="5" fill="#5eead4"/><circle cx="44" cy="-106" r="5" fill="#818cf8"/><circle cx="45" cy="102" r="5" fill="#5eead4"/></g>
+</svg>
