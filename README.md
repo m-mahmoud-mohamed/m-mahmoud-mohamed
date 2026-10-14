@@ -5,7 +5,6 @@
 <br />
 
 [![Qexlify](https://img.shields.io/badge/Co--founder%20%40%20Qexlify-0F766E?style=for-the-badge)](https://qexlify.com)
-[![GIPP Lab Research](https://img.shields.io/badge/Research%20%40%20GIPP%20Lab-4C1D95?style=for-the-badge)](#current-research)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud--mohamed/)
 [![Email](https://img.shields.io/badge/Let's%20talk-172554?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudmohamedabdellahy@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-242b3b?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/MahmoudMohamed)
@@ -14,7 +13,7 @@
 
 I turn **AI research into useful products** — from agentic LLM workflows and retrieval systems to full-stack applications, computer vision, and scalable ML infrastructure.
 
-**[Current research](#current-research) · [Selected work](#selected-work) · [What I do](#what-i-do) · [Recognition](#research--recognition) · [Connect](#connect)**
+**[Selected work](#selected-work) · [What I do](#what-i-do) · [Research](#research--recognition) · [Connect](#connect)**
 
 </div>
 
@@ -26,19 +25,10 @@ I’m **Mahmoud Abdellahi**, an AI & Software Engineer based in Göttingen, Germ
 
 - 🚀 **Co-founder of [Qexlify](https://qexlify.com)** — building an AI-powered examination platform with intelligent exam creation and grading workflows.
 - 🧠 **AI & Software Engineering at [GWDG](https://www.gwdg.de/)** — working on an HPC examination platform with LLM-based grading agents, RAG, and production deployments.
-- 🔬 **Research intern at GIPP Lab, University of Göttingen** — exploring reasoning in diffusion models.
+- 🔬 **Research intern at [GIPP Lab](https://gipplab.uni-goettingen.de/), University of Göttingen** — exploring reasoning in diffusion models.
 - 🎓 **M.Sc. student, Applied Computer Science (Data Science)** at the University of Göttingen.
 
 I enjoy owning the full journey: **prototype → evaluate → engineer → deploy**.
-
-## Current research
-
-> ### 🔬 Reasoning in Diffusion Models
-> **Research Intern** · **GIPP Lab, University of Göttingen** · **May 2026 – Present**
->
-> I'm currently researching **reasoning in diffusion models**, working across **model experimentation, training pipelines, and evaluation**. My research brings together generative modeling and systematic experimentation to investigate the capabilities of diffusion-based approaches.
->
-> `Diffusion Models` · `Reasoning` · `Generative AI` · `Model Evaluation`
 
 ## Selected work
 
